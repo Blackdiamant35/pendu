@@ -1,4 +1,4 @@
-# pendu
+# Pendu !
 Graphical tkinter library based "Hanged" (Pendu) game.
 ISN project made for school :
 
