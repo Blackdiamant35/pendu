@@ -1,0 +1,7 @@
+elephant
+tortue
+brique
+voiture
+avion
+marteau
+panier
